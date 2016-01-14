@@ -330,6 +330,8 @@ Hypertopic services can be tested with a generic [REST client](https://addons.mo
 
 # References
 
+* Aurélien Bénel. [Semiotic Issues and Perspectives on Modeling Cultural Artifacts: Revisiting 1970's French criticisms on 'New archaeologies'.](http://publications.icd.utt.fr/f76f88356be3ad71244879efa40ac3c3/benel_sw4sh_2015.pdf). *Proceedings of the workshop on Semantic Web for Scientific Heritage (SW4SH), Portoroz (Slovenia), June 1st, 2015, 57-64.*
+
 * Jean-Pierre Cahier, Manuel Zacklad, [Expérimentation d’une approche coopérative et multipoint de vue de la construction et de l’exploitation de catalogues commerciaux « actifs »](http://publications.icd.utt.fr/b743575e7c79c308b22e7703b98a81b6). *Document numérique n°3-4, Volume 5*. Hermes, 2001. p.45-64. [FRENCH]
 
 * Jean Caussanel, Jean-Pierre Cahier, Manuel Zacklad, Jean Charlet. [Les Topic Maps sont-ils un bon candidat pour l'ingénierie du Web Sémantique ?](http://publications.icd.utt.fr/b743575e7c79c308b22e7703b98a4bf8), *Conférence Ingénierie des Connaissances IC'2002, Rouen, Mai 2002*. Prix AFIA de la meilleure présentation. [FRENCH]
